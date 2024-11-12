@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936876566685",
+    "project_id": "fir-2800c",
+    "storage_bucket": "fir-2800c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936876566685:android:e19dbeb1853de98b114c74",
+        "android_client_info": {
+          "package_name": "com.phish.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDuo3JKlERdOhNaEmSa6mkIy5xtyrbn6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
